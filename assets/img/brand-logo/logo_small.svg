@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="115px" height="26px" viewBox="0 0 115 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2 Copy</title>
+    <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2-Copy" transform="translate(1.000000, 0.000000)">
+            <text id="decentrace" font-family="Helvetica" font-size="16.7925697" font-weight="normal" fill="#0A073B">
+                <tspan x="26.9380805" y="16">decentrace</tspan>
+            </text>
+            <text id="|" font-family="Helvetica-Light, Helvetica" font-size="16.7925697" font-weight="300" fill="#0A073B" fill-opacity="0.75">
+                <tspan x="20.9907121" y="16">|</tspan>
+            </text>
+            <g id="Group" transform="translate(0.000000, 0.694444)" stroke="#0A073B" stroke-width="1.0495356">
+                <polygon id="Path" stroke-opacity="0.25" points="4.43589985 7.98611111 13.0929654 7.98611111 17.4922601 15.9252706 13.0929654 23.9583333 4.43589985 23.9583333 0 15.9722222"></polygon>
+                <polygon id="Path-Copy" stroke-opacity="0.5" points="4.43589985 0 13.0929654 0 17.4922601 7.93915951 13.0929654 15.9722222 4.43589985 15.9722222 0 7.98611111"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
